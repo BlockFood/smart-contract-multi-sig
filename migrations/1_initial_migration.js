@@ -8,3 +8,4 @@ module.exports = (deployer, test, accounts) => {
       accounts[3],
   ], 2)
 }
+
